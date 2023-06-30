@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>30 Seconds Cmd Game</title>
-  <script>
-    // JavaScript code for the game
-    // Insert the JavaScript code here
-  </script>
+  
+ 
 </head>
 <body>
   <h1>30 Seconds Cmd Game</h1>
